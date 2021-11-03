@@ -48,7 +48,7 @@ const transformPost = async () => {
         
 }
 
-// getPost()
-// getComments()
-// simultaneous()
+getPost()
+getComments()
+simultaneous()
 transformPost()
